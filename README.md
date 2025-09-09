@@ -1,3 +1,3 @@
 # Senior-Design
 
-Example
+Python code for Senior Design project.
