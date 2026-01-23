@@ -16,8 +16,8 @@ The objective of this project is to remove the manual decal measurement process 
 
 | File                                                                                     | Description                                                 |
 |------------------------------------------------------------------------------------------|-------------------------------------------------------------|
-| `main.py`                                                                                | Main Python                                                 |
-| `YOLOmodel.pt`                                                                           | YOLOv8-seg Model                                            |  
+| `main.py`                                                                                | Main Python file                                            |
+| `YOLOmodel.pt`                                                                           | YOLOv8 Object Detection and Segmentation Model              |  
 | `README.md`                                                                              | Project Summary                                             |
   
 ---
