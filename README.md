@@ -17,7 +17,7 @@ The objective of this project is to remove the manual decal measurement process 
 | File                                                                                     | Description                                                 |
 |------------------------------------------------------------------------------------------|-------------------------------------------------------------|
 | `main.py`                                                                                | Main Python file                                            |
-| `best.pt`                                                                           | YOLOv8 Segmentation Model              |  
+| `v4.pt`                                                                           | YOLOv8 Segmentation Model              |  
 | `capture.ipynb`                                                                           | Camera Capture              |  
 | `contour.ipynb`                                                                           | Contour Extraction              |  
 | `calibration.ipynb`                                                                           | Camera Calibration              |  
