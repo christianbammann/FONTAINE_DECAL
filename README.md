@@ -22,7 +22,7 @@ The objective of this project is to remove the manual decal measurement process 
 | `contour.ipynb`                                                                           | Contour Extraction              |  
 | `calibration.ipynb`                                                                           | Camera Calibration              |  
 | `generate_pattern.ipynb`                                                                           | Checkerboard Pattern Generation              |  
-| `checkerboard_2x3.svg`                                                                           | Checkerboard 2x3 Pattern              |  
+| `checkerboard.svg`                                                                           | Checkerboard 2x3 Pattern              |  
 | `README.md`                                                                              | Project Summary                                             |
   
 ---
