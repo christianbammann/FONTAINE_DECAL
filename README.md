@@ -19,10 +19,10 @@ The objective of this project is to remove the manual decal measurement process 
 | `main.py`                                                                                | Main Python file                                            |
 | `v4.pt`                                                                           | YOLOv8 Segmentation Model              |  
 | `capture.ipynb`                                                                           | Camera Capture              |  
-| `contour.ipynb`                                                                           | Contour Extraction              |  
+| `contour_extraction.ipynb`                                                                           | Contour Extraction              |  
 | `calibration.ipynb`                                                                           | Camera Calibration              |  
 | `generate_pattern.ipynb`                                                                           | Checkerboard Pattern Generation              |  
-| `checkerboard.svg`                                                                           | Checkerboard 2x3 Pattern              |  
+| `checkerboard.pdf`                                                                           | Checkerboard Calibration Pattern              |  
 | `README.md`                                                                              | Project Summary                                             |
   
 ---
