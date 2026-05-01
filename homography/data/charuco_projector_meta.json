@@ -1,0 +1,9 @@
+{
+  "dictionary_name": "DICT_5X5_1000",
+  "squares_x": 16,
+  "squares_y": 9,
+  "square_length_px": 120,
+  "marker_length_px": 84,
+  "projector_width": 1920,
+  "projector_height": 1080
+}
