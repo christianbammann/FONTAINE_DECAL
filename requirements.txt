@@ -1,0 +1,8 @@
+fastapi==0.136.1
+numpy==1.21.5
+opencv_contrib_python==4.13.0.92
+opencv_python==4.13.0.90
+pydantic==2.13.3
+pyserial==3.5
+starlette==1.0.0
+ultralytics==8.4.8

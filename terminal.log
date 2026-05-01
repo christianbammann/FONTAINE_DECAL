@@ -1,0 +1,35 @@
+GUI terminal output started at Mon Apr 27 10:30:43 AM EDT 2026
+INFO:     Started server process [13978]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+Serial connection established on port /dev/ttyUSB0
+INFO:     10.17.230.133:64449 - "GET /login HTTP/1.1" 200 OK
+INFO:     10.17.230.133:57308 - "POST /login HTTP/1.1" 200 OK
+INFO:     10.17.230.133:57308 - "GET / HTTP/1.1" 200 OK
+INFO:     10.17.230.133:57308 - "GET /status HTTP/1.1" 200 OK
+INFO:     10.17.230.133:58222 - "GET /events HTTP/1.1" 200 OK
+INFO:     10.17.230.133:60004 - "GET /ports HTTP/1.1" 200 OK
+INFO:     10.17.230.133:60004 - "GET /status HTTP/1.1" 200 OK
+INFO:     10.17.230.133:60004 - "GET /status HTTP/1.1" 200 OK
+GUI terminal output started at Mon Apr 27 11:06:09 AM EDT 2026
+INFO:     Started server process [2970]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [2970]
+Terminated
+GUI terminal output started at Tue Apr 28 01:57:11 PM EDT 2026
+INFO:     Started server process [2968]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+Serial connection established on port /dev/ttyUSB0
+INFO:     10.17.230.133:64493 - "GET / HTTP/1.1" 303 See Other
+INFO:     10.17.230.133:64493 - "GET /login HTTP/1.1" 200 OK
+INFO:     10.17.230.133:64493 - "GET /static/fontaine-logo-white.png HTTP/1.1" 304 Not Modified
+INFO:     10.17.230.133:64493 - "GET /static/favicon.ico HTTP/1.1" 304 Not Modified
+INFO:     10.17.230.133:64493 - "GET /static/tab-logo-transparent.png HTTP/1.1" 304 Not Modified

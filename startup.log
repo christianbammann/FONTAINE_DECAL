@@ -1,0 +1,67 @@
+Startup script ran at Mon Apr 27 10:30:43 AM EDT 2026
+2026-04-27 10:33:35,364 - INFO - Pipeline started with 7 displayed step(s).
+2026-04-27 10:33:35,365 - INFO - Starting pipeline section at step 1 (7 slots): Detect and project pipeline.
+2026-04-27 10:33:35,365 - INFO - Initializing pipeline.
+2026-04-27 10:33:35,367 - INFO - Loading neural network.
+2026-04-27 10:33:35,654 - INFO - Opening projector window: namedWindow(final projection pipeline).
+2026-04-27 10:33:35,843 - INFO - Opening projector window: moveWindow(final projection pipeline).
+2026-04-27 10:33:35,843 - INFO - Opening projector window: resizeWindow(final projection pipeline).
+2026-04-27 10:33:35,844 - INFO - Opening projector window: waitKey(final projection pipeline).
+2026-04-27 10:33:35,846 - INFO - Opening projector window: setWindowProperty fullscreen(final projection pipeline).
+2026-04-27 10:33:35,848 - INFO - Projector window opened: final projection pipeline.
+2026-04-27 10:33:38,886 - INFO - Running feature extraction.
+2026-04-27 10:33:45,546 - INFO - Pipeline completed successfully.
+2026-04-27 10:34:38,423 - INFO - Pipeline started with 7 displayed step(s).
+2026-04-27 10:34:38,424 - INFO - Starting pipeline section at step 1 (7 slots): Detect and project pipeline.
+2026-04-27 10:34:38,424 - INFO - Initializing pipeline.
+2026-04-27 10:34:38,426 - INFO - Loading neural network.
+2026-04-27 10:34:41,807 - INFO - Running feature extraction.
+2026-04-27 10:34:48,408 - INFO - Pipeline completed successfully.
+2026-04-27 10:40:14,817 - INFO - Pipeline started with 7 displayed step(s).
+2026-04-27 10:40:14,818 - INFO - Starting pipeline section at step 1 (7 slots): Detect and project pipeline.
+2026-04-27 10:40:14,818 - INFO - Initializing pipeline.
+2026-04-27 10:40:14,821 - INFO - Loading neural network.
+2026-04-27 10:40:18,138 - INFO - Running feature extraction.
+2026-04-27 10:40:25,000 - INFO - Pipeline completed successfully.
+2026-04-27 10:41:07,063 - INFO - Pipeline started with 7 displayed step(s).
+2026-04-27 10:41:07,064 - INFO - Starting pipeline section at step 1 (7 slots): Detect and project pipeline.
+2026-04-27 10:41:07,064 - INFO - Initializing pipeline.
+2026-04-27 10:41:07,067 - INFO - Loading neural network.
+2026-04-27 10:41:11,695 - INFO - Running feature extraction.
+2026-04-27 10:41:18,531 - INFO - Pipeline completed successfully.
+2026-04-27 10:44:30,297 - INFO - Pipeline started with 7 displayed step(s).
+2026-04-27 10:44:30,298 - INFO - Starting pipeline section at step 1 (7 slots): Detect and project pipeline.
+2026-04-27 10:44:30,298 - INFO - Initializing pipeline.
+2026-04-27 10:44:30,300 - INFO - Loading neural network.
+2026-04-27 10:44:33,673 - INFO - Running feature extraction.
+2026-04-27 10:44:40,332 - INFO - Pipeline completed successfully.
+2026-04-27 10:48:47,236 - INFO - Pipeline started with 7 displayed step(s).
+2026-04-27 10:48:47,236 - INFO - Starting pipeline section at step 1 (7 slots): Detect and project pipeline.
+2026-04-27 10:48:47,237 - INFO - Initializing pipeline.
+2026-04-27 10:48:47,239 - INFO - Loading neural network.
+2026-04-27 10:48:50,574 - INFO - Running feature extraction.
+2026-04-27 10:49:10,483 - INFO - Pipeline started with 7 displayed step(s).
+2026-04-27 10:49:10,484 - INFO - Starting pipeline section at step 1 (7 slots): Detect and project pipeline.
+2026-04-27 10:49:10,484 - INFO - Initializing pipeline.
+2026-04-27 10:49:10,485 - INFO - Loading neural network.
+2026-04-27 10:49:14,585 - INFO - Running feature extraction.
+2026-04-27 10:49:22,261 - INFO - Pipeline started with 7 displayed step(s).
+2026-04-27 10:49:22,261 - INFO - Starting pipeline section at step 1 (7 slots): Detect and project pipeline.
+2026-04-27 10:49:22,261 - INFO - Initializing pipeline.
+2026-04-27 10:49:22,263 - INFO - Loading neural network.
+2026-04-27 10:49:24,894 - INFO - Running feature extraction.
+2026-04-27 10:49:31,394 - INFO - Pipeline completed successfully.
+2026-04-27 10:56:17,121 - INFO - Pipeline started with 7 displayed step(s).
+2026-04-27 10:56:17,122 - INFO - Starting pipeline section at step 1 (7 slots): Detect and project pipeline.
+2026-04-27 10:56:17,122 - INFO - Initializing pipeline.
+2026-04-27 10:56:17,124 - INFO - Loading neural network.
+2026-04-27 10:56:20,481 - INFO - Running feature extraction.
+2026-04-27 10:56:27,214 - INFO - Pipeline completed successfully.
+2026-04-27 11:01:25,365 - INFO - Pipeline started with 7 displayed step(s).
+2026-04-27 11:01:25,365 - INFO - Starting pipeline section at step 1 (7 slots): Detect and project pipeline.
+2026-04-27 11:01:25,366 - INFO - Initializing pipeline.
+2026-04-27 11:01:25,369 - INFO - Loading neural network.
+2026-04-27 11:01:28,737 - INFO - Running feature extraction.
+2026-04-27 11:01:35,140 - INFO - Pipeline completed successfully.
+Startup script ran at Mon Apr 27 11:06:09 AM EDT 2026
+Startup script ran at Tue Apr 28 01:57:11 PM EDT 2026
