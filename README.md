@@ -1,8 +1,7 @@
 # Automatic Decal Projection System - FONTAINE_DECAL
 
+## Overview
 Design of an automatic projection system that uses computer vision to digitally project an arrangement of decals onto truck doors, removing the need for manual decal measurement and ensuring fast, accurate, and consistent placement.
-
----
 
 ## Contributors
 - **Christian Bammann** – Computer Engineering Student
